@@ -1,6 +1,3 @@
 ## Dario Gentiletti's blog
-About Product, Philosophy and Decision Making
-
+Games, Products and Philosophy.
 ---
-
-Hello guys.
