@@ -1,7 +1,7 @@
 title: Dario Gentiletti
 name: Dario Gentiletti
-user_description: Product, Philosophy and Decision Making
-notes_url: "https://dariogentiletti.com/notes"
+user_description: Games, Products and Philosophy
+notes_url: "https://dariogentiletti.com/"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
 copyright_name: Dario Gentiletti
@@ -33,7 +33,7 @@ collections:
       permalink: /notes/:title
 
 disqus:
-  shortname: raghuveerdotnet
+  shortname: dariogentiletti
 
 defaults:
   - scope:
