@@ -13,7 +13,7 @@ This page is working in progress. My deadline to complete it is August 29th, at 
 
 [[Twitter::https://twitter.com/dariogentiletti]] – Shoot me a dm or just tweet ***@dariogentiletti***. I will try to reply as soon as I can. For work connection, here is my [[linkedin::https://www.linkedin.com/in/dgentiletti/]].
     
-If you ever go to Napoli (Italy), drop an email([[raghu@raghuveer.net::mailto:raghu@raghuveer.net]]) and include [Napoli] in the subject line: I will personally write to you for free a guide on how to visit Napoli as a local and enjoy the best food of the country.
+If you ever go to Napoli (Italy), drop an email([[raghu@raghuveer.net::mailto:dg3084@columbia.edu]]) and include [Napoli] in the subject line: I will personally write to you for free a guide on how to visit Napoli as a local and enjoy the best food of the country.
 
 If you like anything about who I am or what I do, please do follow me or reach out to me. Don’t hesitate.
 
