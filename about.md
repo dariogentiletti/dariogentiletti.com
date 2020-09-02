@@ -36,9 +36,9 @@ In the Non-Cooperative Infinitely Repeated Games of life [[I had to capitalize i
 
 ## References
 
-Agent (Economics), [[Wikipedia::https://en.wikipedia.org/w/index.php?title=Agent_(economics)&oldid=965416645.]].<br>
-“Are Game Theorists Good at Games?", [[Quora::https://www.quora.com/Are-game-theorists-good-at-games.]].<br>
-Matching Pennies, [[Wikipedia::https://en.wikipedia.org/w/index.php?title=Matching_pennies&oldid=961053074.]].<br>
+Agent (Economics), [[Wikipedia::https://en.wikipedia.org/w/index.php?title=Agent_(economics)&oldid=965416645]].<br>
+“Are Game Theorists Good at Games?", [[Quora::https://www.quora.com/Are-game-theorists-good-at-games]].<br>
+Matching Pennies, [[Wikipedia::https://en.wikipedia.org/w/index.php?title=Matching_pennies&oldid=961053074]].<br>
 Strategic Dominance, [[Wikipedia::https://en.wikipedia.org/w/index.php?title=Strategic_dominance&oldid=947181491]].<br>
 
 
