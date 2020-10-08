@@ -1388,9 +1388,6 @@ label.margin-toggle:not(.sidenote-number) {
 .related-wrapper {
     grid-template-columns: repeat(1, 1fr);
 }
-.siteheading h4 {
- font-size: 4px; 
-}
 }
 
 @media print {
@@ -1421,13 +1418,13 @@ label.margin-toggle:not(.sidenote-number) {
 }
 }
 
-/* IN ORDER TO FIT A LONG TITLE ON MOBILE 
+/* IN ORDER TO FIT A LONG TITLE ON MOBILE */
 @media screen and (max-width: 500px) {
   .siteheading h4 {
-     font-size: 4px; 
+     font-size: px; 
   }
 }
-*/
+
 
 
 /* DISQUS THREAD MARGIN OVERRIDE FOR LEGIBILITY, DO NOT TOUCH */
