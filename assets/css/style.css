@@ -1429,6 +1429,6 @@ label.margin-toggle:not(.sidenote-number) {
 /* IN ORDER TO FIT A LONG TITLE ON MOBILE */
 @media screen and (max-width: 500px) {
   .site-heading h4 {
-     font-size: 12px; 
+     font-size: 9px; 
   }
 }
