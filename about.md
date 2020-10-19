@@ -21,11 +21,15 @@ In the Non-Cooperative Infinitely Repeated Games of life [[I had to capitalize i
 
 ## Projects
 
+[Design opportunities to increase Amazon's Lists discoverability](https://www.figma.com/proto/vVXDnmj7eQwgiGVk7pwIjv/Redfin-Homework-Assignment?node-id=19%3A12&scaling=min-zoom){:target="_blank"}
+
+[Motivations and low-fidelity prototype of an EA Play integration on Discord](https://www.figma.com/proto/vVXDnmj7eQwgiGVk7pwIjv/Redfin-Homework-Assignment?node-id=19%3A12&scaling=min-zoom){:target="_blank"}
+
 ---
 
 ## Reach out to me      
 
-[[Twitter::https://twitter.com/dariogentiletti]] – Shoot me a dm or just tweet ***@dariogentiletti***. I can guarantee[[I cannot.::lsn]] I will reply within the same day. That is more the place for casual conversations, so do not care about typos or format.
+[[Twitter::https://twitter.com/dariogentiletti]] – Shoot me a dm or just tweet ***@dariogentiletti***. I can guarantee[[I cannot.::lsn]] I will reply within the same day. That is more the place for casual conversations, so do not care about typos or formatting.
 
 [[LinkedIn::https://www.linkedin.com/in/dgentiletti/]] – Feel free to connect with me. Except if you are trying to sell me a B2B marketing web app subscription, I will be happy to accept any connection that is work related. Just add "*dariogentiletti.com*" in the request's note so I can track how many people come from this blog.
 
