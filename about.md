@@ -23,7 +23,7 @@ In the Non-Cooperative Infinitely Repeated Games of life [[I had to capitalize i
 
 [Design opportunities to increase Amazon's Lists discoverability](https://www.figma.com/proto/vVXDnmj7eQwgiGVk7pwIjv/Redfin-Homework-Assignment?node-id=19%3A12&scaling=min-zoom){:target="_blank"}
 
-[Motivations and low-fidelity prototype of an EA Play integration on Discord](https://www.figma.com/proto/vVXDnmj7eQwgiGVk7pwIjv/Redfin-Homework-Assignment?node-id=19%3A12&scaling=min-zoom){:target="_blank"}
+[Motivations and low-fidelity prototype of an EA Play integration on Discord](https://www.figma.com/proto/4jpMjWQ43Y0sf5aJNVtjNm/EA-Play-x-Discord?node-id=23%3A21&scaling=min-zoom){:target="_blank"}
 
 ---
 
