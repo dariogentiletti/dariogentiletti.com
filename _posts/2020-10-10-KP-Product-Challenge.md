@@ -5,14 +5,23 @@ tags: products
 
 When I finally graduated in April 2020, like every other student I had to take the graduation pictures. Meanwhile, the COVID-19 pandemic was rising in New York and it was definitely not easy to find a photographer during such times. However, something even more difficult was to look at those pictures the day after. Transferring from a community college to an Ivy League and wanting to graduate just in 2 years while being a startup founder, I spent most of my time sitting in a library, without any physical exercise, and with unhealthy food habits. When I looked at those pictures, I finally became aware of the 23 pounds that I gained over the last two years. Before transferring to Columbia, I was playing college football and probably I was at the peak of my shape. Now, it was the opposite and I had to take my body back.
 
-Having been an athlete for most of my life, I had a lot of knowledge about nutrition. I was not going to follow any specific diet, but just eating fewer calories than the ones I burned. After I calculated my TDEE Total Daily Energy Expenditures — a measure of how many calories you burn per day, I know I just had to eat less than 1300 calories to lose weight. You do not need any other special or trendy technique.  [It is so simple, but where many people fail is to accurately track calories.](https://physiqonomics.com/eating-too-much/ "Physiqonomics' Article of Tracking Calories")
+Having been an athlete for most of my life, I had a lot of knowledge about nutrition. I was not going to follow any specific diet, but just eating fewer calories than the ones I burned. After I calculated my TDEE[[Total Daily Energy Expenditure::lsn]], I know I just had to eat less than 1300 calories to lose weight. You do not need any other special or trendy technique.  [It is so simple, but where many people fail is to accurately track calories.](https://physiqonomics.com/eating-too-much/ "Physiqonomics' Article about Tracking Calories")
 
 For the first month of my diet, I was using traditional fitness apps: MyFitnessPal and LoseIt. However, I quickly noticed that there was much unreliable information about the calories of the food I was eating. Without accurate tracking, my plan was going to fail: I needed to find a more reliable tool. I started to try every possible fitness and calorie tracking app. One day, while reading Hacker News, I found an article about "Deep Learning Meets Food Logging". At that moment I discovered Bitesnap, but I never imagined that would be the most useful app that will lead me to lose 25 pounds in 2 months.
 
-[Directory]
+---
+
+## Table of Contents
+
+- [[What is Bitesnap?::#what]]
+- [[Why am I obsessed with Bitesnap?::#why]]
+- [[What can be improved?::#improvements]]
+- [[Conclusion::#conclusion]]
+
 
 ---
 
+{:#what}
 ## What is Bitesnap?
 
 ![Logo](/assets/img/kp-challenge/logo-with-text.png)
@@ -26,6 +35,7 @@ There are three main features that Bitesnap offers to its users:
 
 ---
 
+{:#why}
 ## Why am I obsessed with Bitesnap?
 
 ![Bitesnap uses deep learning to recognize the food in the picture](/assets/img/kp-challenge/bitesnap-og-image.jpg)
@@ -36,7 +46,7 @@ I have been using MyFitnessPal for over 3 years. After, I switched to LoseIt for
 
 ![Most used features of MyFitnessPal through user interviews, by uxdesign.cc](/assets/img/kp-challenge/screenshots.jpg)
 
-When I found MyFitnessPal, I just wanted to track my calories. I downloaded it because it was the most popular. However, every time I was opening the app I had to go through the "Blog", the "Water Log", the "Exercises" and much more. I had to click a few buttons and spend more time than I wanted just to add what I ate that day and how many calories I still have left. The second most important thing for me was to track the number of carbs because I did not want to eat more than 35% of carbs during a day. It was so hard to find how to visualize my macro, that for the first months I believed MyFitnessPal did not have such a feature.
+When I found MyFitnessPal, I just wanted to track my calories. I downloaded it because it was the most popular one. However, every time I was opening the app I had to go through the "Blog", the "Water Log", the "Exercises" and much more. I had to click a few buttons and spend more time than I wanted just to add what I ate that day and how many calories I still have left. The second most important thing for me was to track the number of carbs because I did not want to eat more than 35% of carbs during a day. It was so hard to find how to visualize my macro, that for the first months I believed MyFitnessPal did not have such a feature.
 
 After a long pause, I started a ketogenic diet and I needed to track my food again. This time, I was done with MyFitnessPal's User Experience, and I wanted something simpler, that would not steal more than five minutes of my day. I found LoseIt, which had a much quicker experience to add new food. With just two clicks, I was able to add what I ate directly from the homepage. There were other features such as exercise and waterlog, but they were hidden or not on the homepage. However, the business model of LoseIt was terrible for me: to look at some data, you needed to buy the subscription. The worst thing is that one of the data restricted for the premium users was the macronutrients! I was unable to see how many carbs, proteins, and fat I was eating each day, and that was a huge limit, especially when doing a ketogenic diet [[A ketogenic diet consists of reducing the amount of carbohydrate intake to less than 50 grams a day.::rsn]]. As with MyFitnessPal, I struggled to be consistent and I found myself forgetting to use the app over and over again.
 
@@ -55,7 +65,7 @@ Bitesnap does not use crowdsourcing: instead, it only retrieves food nutritional
 While the lack of crowdsourcing can be perceived as a limiting factor, I would say that it has been the main reason why I stuck with Bitesnap. Crowdsourcing helps to have every information about every single item, while official databases have information only about the most common food. They do not have the nutritional facts about some south Asian traditional dish or northern Italian home-made recipe, but if you use crowdsourcing, someone will be adding them. However, that was not what I needed: I needed a reliable source of information. When Bitesnap does not have a specific food item (it did not happen more than eight items in the last two months), I can easily create a new one, manually adding the nutritional facts. That item is not shared with other people, so that when you search you can only find food information from the official databases or the ones you created. Most importantly, official databases provide additional facts such as vitamins, minerals, caffeine, etc. This is a gamechanger because until now I was only able to track calories.; however, I had no idea about the vitamins that I was lacking or the amount of caffeine drunk each day. That is because when you use crowdsourcing, people do not insert that information when adding a new item. With Bitesnap, I can look at the number of vitamins I'm eating each day, I can instantly see any lack through data charts, and I can set daily targets for those more specific nutritional facts. Being all retrieved from the official governmental database, I feel confident about its accuracy.
 
 ---
-
+{:#improvements}
 ## What can be improved?
 
 ![Bitesnap's UI when adding a food item](/assets/img/kp-challenge/screenshot-feed.jpg)
@@ -74,7 +84,7 @@ The improvement of both features can be extremely helpful to help users achieve 
 
 ---
 
- 
+{:#conclusion}
 ## Conclusion
 ![Main menu of Bitesnap](/assets/img/kp-challenge/finalpic2.jpeg)
 
