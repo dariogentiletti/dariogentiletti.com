@@ -30,7 +30,9 @@ Bitesnap is a mobile app that uses deep learning to recognize food in your pictu
 
 There are three main features that Bitesnap offers to its users:
 1. **Logging a meal by just taking a picture** — When taking a picture of the food through the app, it suggests you on what you are eating and automatically find all the calories and nutrients of that food — the process does not take more than 10 seconds.
+
 2. **Explore eating patterns visually** — There are two visual ways that Bitesnap shows eating patterns to the users. The first is through the photo journal, which a user can visualize by scrolling the homepage and seeing all the meals they had in the past days. The second is through the data charts available in the menu, where a user can look not only at the calories they had in the past days, but also at the amount of protein, fiber, vitamin D, and every other possible nutrient.
+a
 3. **Personalized Predictions** — Bitesnap uses machine learning to customize itself for each user. This means that the app visually learns the user's habits over time, and it is able to provide predictions on what the user is eating. In fact, the more the user uses the app, the better the algorithms become at identifying the food in the pictures.
 
 ---
